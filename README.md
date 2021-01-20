@@ -25,7 +25,7 @@ It is a collection of Windows' utilities. This project is developed in Python.
 * **Feedback Form**
 
 
-### __To run the "DOPE Toolkit.py" successfully, please install the following python packages using pip:__
+### __To run the "DOPE.py" successfully, please install the following python packages using pip:__
 - pillow
 - pypng
 - pygame
@@ -59,9 +59,6 @@ It is a collection of Windows' utilities. This project is developed in Python.
 
 
 > **Welcome To Omni World**
-<br>
 ```
-Ready, Steady, Code....
+Ready Steady Code
 ```
-
-
