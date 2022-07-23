@@ -38,7 +38,6 @@ It is a collection of Windows' utilities. This project is developed in Python.
 
 ## For any queries regarding this project, Contact me at 
 * Email: deviparsadsamal@yahoo.in 
-* Mobile: +91-9569161860 
 * Discord: Iron_Boy#0976
 
 
